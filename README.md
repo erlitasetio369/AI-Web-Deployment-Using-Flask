@@ -10,9 +10,9 @@ Project klasifikasi guntuing, batu dan kertas ini menggunakan model pretrained E
 3. Membuat sebuah venv 
 ```python -m venv ./rpsvenv```
 4. Mengaktifkan venv
-- Command Prompt
+  - Command Prompt
 ```./rpesvenv/Scripts/activate.bat```
-- Powershell
+  - Powershell
 ```./rpesvenv/Scripts/activate.ps```
 
 5. Lakukan install library yang diperlukan dengan perintah berikut
