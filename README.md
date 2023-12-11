@@ -3,7 +3,7 @@
 **Instalasi**
 python version >= 3.11
 Clone repositori ini
-```git clone https://github.com/erlitasetio369/flask-web-AI.git```
+```git clone https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask.git```
 Masuk ke direktori repositori
 Buat sebuah venv
 ```python -m venv ./rpsvenv```
