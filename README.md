@@ -1,5 +1,9 @@
 # AI-Web-Deployment-Using-Flask
 
+Project klasifikasi guntuing, batu dan kertas ini menggunakan model pretrained EfficientNetB3 yang diambil menggunakan pustaka tensorflow. Dataset project ini menggunakan dataset rock paper scissor dengan jumlah data sebanyak 2520 file. 
+
+## Cara menggunakan project ini
+
 **Instalasi**
 python version >= 3.11
 Clone repositori ini
