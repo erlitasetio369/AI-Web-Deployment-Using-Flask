@@ -7,11 +7,11 @@ Project klasifikasi guntuing, batu dan kertas ini menggunakan model pretrained E
 **Instalasi**
 python version >= 3.11
 Clone repositori ini
-```git clone https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask.git```
+```git clone https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask.git``` 
 Masuk ke direktori repositori
 Buat sebuah venv
 ```python -m venv ./rpsvenv```
-Aktifkan venv
+Mengaktifkan venv
 - Command Prompt
 ```./rpesvenv/Scripts/activate.bat```
 - Powershell
