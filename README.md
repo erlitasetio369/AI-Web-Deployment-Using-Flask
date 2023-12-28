@@ -51,6 +51,8 @@ Evaluation Matrix Model:
    
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/339a980c-c0e6-4652-8d5e-9a0a869582d3)
 
+Tampilan halaman predict.
+
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/2161ca71-243c-4e3c-85fc-4959740f5448)
 
 
