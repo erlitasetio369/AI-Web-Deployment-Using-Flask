@@ -27,6 +27,7 @@ Project klasifikasi guntuing, batu dan kertas ini menggunakan model pretrained E
 Model dibuat dengan model EfficientNetB3. Berikut adalah summary model:
 
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/7afa8474-4804-4eb9-b370-7b78f38a07d5)
+
 Train data dilakukan dengan ```10 epoch```. Akurasi yang didapatkan adalah ```0.34``` dan loss ```1.08```. Berikut adalah hasil plot dari accuracy, val accuracy, loss dan val loss.
 
 Graph Loss dan Accuracy Model:
@@ -41,6 +42,10 @@ Evaluation Matrix Model:
 # Predict Data
 
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/e12548a4-3fa1-418b-b491-9eee62fc2ac0)
+
+# AI Web Deployment
+
+
 
 
 
