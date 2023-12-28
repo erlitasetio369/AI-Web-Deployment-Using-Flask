@@ -28,6 +28,10 @@ Model dibuat dengan model EfficientNetB3. Berikut adalah summary model:
 
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/7afa8474-4804-4eb9-b370-7b78f38a07d5)
 
+Graph Loss dan Accuracy Model:
+
+![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/439a6f57-7579-4a0c-84bb-c0539ee834f6)
+
 
 
 
