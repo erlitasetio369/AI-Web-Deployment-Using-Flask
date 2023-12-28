@@ -36,7 +36,7 @@ Evaluation Matrix Model:
 
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/d4f967e0-c387-49c1-89e6-62093c0d95ae)
 
-** Predict Data**
+**Predict Data**
 
 ![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/e12548a4-3fa1-418b-b491-9eee62fc2ac0)
 
