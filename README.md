@@ -26,7 +26,8 @@ Project klasifikasi guntuing, batu dan kertas ini menggunakan model pretrained E
 
 Model dibuat dengan model EfficientNetB3. Berikut adalah summary model:
 
-![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/04bf5ed2-3191-4742-b3ed-5db7dc7b45e0)
+![image](https://github.com/erlitasetio369/AI-Web-Deployment-Using-Flask/assets/145989415/7afa8474-4804-4eb9-b370-7b78f38a07d5)
+
 
 
 
